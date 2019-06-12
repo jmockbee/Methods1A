@@ -21,6 +21,8 @@ public class Main {
             System.out.println("Your final score " + finalScore);
         }
     }
+
+    // just adding for commit
     public static void calculateScore (boolean gameOver,int score,int levelCompleted,int bonus ){
         boolean gameOver = true;
         int score = 800;
